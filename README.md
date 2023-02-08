@@ -1,6 +1,15 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-A Data Professional with masters in Computer Science from [NUST](https://seecs.nust.edu.pk/), and another masters in Project Management from [SZABIST](https://szabist-isb.edu.pk/management-sciences/ms-project-management/), and a bachelor's degree in Computer Engineering from [COMSATS](http://ww2.comsats.edu.pk/ee/)
+A Data Professional who is 
+
+🔭 **currently working** in the domains of Data Analytics and Visualizations, Database Engineering, Solution Architecture design and development,
+    Contextual Marketing, Time Series Forecasting and API Development.  
+
+🌱 **currently learning** and developing expertise in Data Visualizations, DJANGO, and Advanced Time Series Forecasting. 
+
+👯 Looking to **collaborate** on Data Analytics Projects.
+
+with masters in Computer Science from [NUST](https://seecs.nust.edu.pk/), and another masters in Project Management from [SZABIST](https://szabist-isb.edu.pk/management-sciences/ms-project-management/), and a bachelor's degree in Computer Engineering from [COMSATS](http://ww2.comsats.edu.pk/ee/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-UmarKhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umar-khan-5b3948122/)](https://www.linkedin.com/in/umar-khan-5b3948122/)
 [![Youtube Badge](https://img.shields.io/badge/-MeYouAndData-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCqZ-TLxTgkPyUalrmpO4rEw)](https://www.youtube.com/channel/UCqZ-TLxTgkPyUalrmpO4rEw)
