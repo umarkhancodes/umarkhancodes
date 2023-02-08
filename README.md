@@ -4,8 +4,8 @@
 
 I am a Data Professional who is 
 
-🔭 **currently working** in the domains of Data Analytics and Visualizations, Database Engineering, Solution Architecture design and development,
-    Contextual Marketing, Time Series Forecasting and API Development.  
+🔭 **currently working** in the domains of Data Analytics and Visualizations, Database Engineering, Solution Architecture Design and Development,
+    Contextual Marketing,  API Development.  
 
 🌱 **currently learning** and developing expertise in Data Visualizations, DJANGO, and Advanced Time Series Forecasting. 
 
