@@ -18,11 +18,13 @@ I am a Data Professional who is
 ## ⚡ Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Vertica](https://img.shields.io/badge/-Vertica-black?style=flat-square&logo=Vertica)
+![SQL](https://img.shields.io/badge/-SQL-green?style=flat-square&logo=SQL)
+![Vertica](https://img.shields.io/badge/-Vertica-blue?style=flat-square&logo=Vertica)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Excel](https://img.shields.io/badge/-Excel-green?style=flat-square&logo=Excel)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
