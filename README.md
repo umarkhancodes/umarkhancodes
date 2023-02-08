@@ -2,7 +2,7 @@
 
 
 
-A Data Professional who is 
+I am a Data Professional who is 
 
 🔭 **currently working** in the domains of Data Analytics and Visualizations, Database Engineering, Solution Architecture design and development,
     Contextual Marketing, Time Series Forecasting and API Development.  
@@ -15,7 +15,19 @@ A Data Professional who is
 [![Youtube Badge](https://img.shields.io/badge/-MeYouAndData-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCqZ-TLxTgkPyUalrmpO4rEw)](https://www.youtube.com/channel/UCqZ-TLxTgkPyUalrmpO4rEw)
 [![Gmail Badge](https://img.shields.io/badge/-umarkhanworks@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:umarkhanworks@gmail.com)](mailto:umarkhanworks@gmail.com)
 
+## ⚡ Technologies
 
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
 ## My Education Background 
